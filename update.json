@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/YOUR_USERNAME/dayz-multi-tool/releases/download/v1.0.0/DayZ_MultiTool.exe",
+  "changelog": "• Initial release\n• Types.xml Generator\n• Classname Extractor\n• Professional filtering",
+  "size": "15 MB"
+}
